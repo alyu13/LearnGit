@@ -1,3 +1,5 @@
 another test
 add some words
 how to solve
+see conflicts
+ok done
